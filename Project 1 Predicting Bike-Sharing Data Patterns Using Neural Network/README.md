@@ -1,4 +1,4 @@
-##Course 1: Neural Networks
+## Course 1: Neural Networks
 
 Learn neural networks basics, and build your first network with
 Python and NumPy. You’ll define and train a multi-layer neural
